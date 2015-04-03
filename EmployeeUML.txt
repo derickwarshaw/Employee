@@ -1,0 +1,22 @@
+Derick Warshaw // Lab 8 // 1337
+
+
+
+
+Employee
+----------------
+-name
+-idNumber
+-department
+-position
+----------------
++Employee(inputName:String, inputIdNum:String, inputDepartment:String, inputPosition:String)
++Employee(inputName:String, inputIdNum:String)
++Employee()
++setName(theName:String):void
++setIdNum(theIdNum:String):void
++setDepartment(theDepartment:String):void
++getName():String
++getIdNum():String
++getDepartment():String
++getPosition():String
